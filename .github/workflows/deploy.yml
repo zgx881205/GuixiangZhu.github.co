@@ -10,8 +10,6 @@ on:
 # Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
   group: 'pages'
@@ -30,6 +28,7 @@ jobs:
       with:
         sparse-checkout: hugoblox.yaml
         sparse-checkout-cone-mode: false
+        persist-credentials: false
 
     - name: Check deploy host
       id: check
@@ -61,8 +60,10 @@ jobs:
   build:
     needs: config
     if: github.repository_owner != 'HugoBlox'
+    permissions:
+      contents: read
+      pages: read
     uses: ./.github/workflows/build.yml
-    secrets: inherit
 
   # Deploy website to GitHub Pages hosting (only if configured)
   deploy:

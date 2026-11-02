@@ -19,6 +19,7 @@ on:
 # Read-only permissions for security
 permissions:
   contents: read
+  pages: read
 
 # Prevent duplicate builds for the same PR
 concurrency:
@@ -38,6 +39,7 @@ jobs:
       with:
         # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
+        persist-credentials: false
 
     - name: Setup Node.js
       uses: actions/setup-node@v6
@@ -82,7 +84,7 @@ jobs:
         # Install Tailwind CLI if package.json exists
         if [ -f "package.json" ]; then
           echo "Installing Tailwind dependencies..."
-          pnpm install --no-frozen-lockfile || npm install
+          pnpm install --frozen-lockfile
         fi
 
     - name: Verify Tailwind CSS dependency
@@ -129,7 +131,6 @@ jobs:
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
-        HUGO_BLOX_LICENSE: ${{ secrets.HUGO_BLOX_LICENSE }}
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
