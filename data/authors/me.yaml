@@ -71,6 +71,6 @@ experience:
 awards:
   - title: 青年五四奖章
     awarder: 南京财经大学
-    date: "2026-05-04"
+    date: 2026-05-04
     summary: Awarded for groundbreaking work on efficient training of large models.
     icon: hero/trophy
