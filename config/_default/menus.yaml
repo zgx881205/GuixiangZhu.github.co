@@ -7,18 +7,19 @@ main:
     weight: 11
   - name: 项目
     url: projects/
-    weight: 30
+    weight: 12
   - name: 课程
     url: courses/
-    weight: 40
+    weight: 13
   - name: 指导竞赛
     url: /#talks
-    weight: 12
+    weight: 14
   - name: 经历
     url: experience/
-    weight: 20
+    weight: 15
   - name: 新闻
     url: /#news
-    weight: 13
+    weight: 16
   - name: GitHub
     url: https://github.com/zgx881205
+    weight: 17
