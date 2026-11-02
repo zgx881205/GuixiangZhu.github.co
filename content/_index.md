@@ -10,7 +10,7 @@ sections:
       username: me
       text: ''
       button:
-        text: 访问我的 GitHub
+        text: 访问我的官方主页
         url: https://github.com/zgx881205
       headings:
         about: 关于我
