@@ -1,5 +1,5 @@
 ---
-title: ''
+title: '个人主页'
 summary: 'Guixiang Zhu 的个人主页'
 type: landing
 
