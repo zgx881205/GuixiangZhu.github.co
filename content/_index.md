@@ -14,7 +14,7 @@ sections:
         url: https://github.com/zgx881205
       headings:
         about: 
-        education: 教育经历
+        education: 南京理工大学，计算机科学与技术专业博士
         interests: 商务智能、人工智能、大模型、推荐系统、智慧文旅和社会计算
     design:
       background:
