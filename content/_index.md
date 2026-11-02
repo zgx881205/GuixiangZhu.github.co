@@ -7,7 +7,7 @@ sections:
   - block: resume-biography-3
     id: about
     content:
-      username: 朱桂祥
+      username: me
       text: ''
       button:
         text: 访问我的 GitHub
