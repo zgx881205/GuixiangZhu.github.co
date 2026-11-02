@@ -10,6 +10,6 @@ cascade:
     render: never
     list: never
     publishResources: false
-    
+
 title: Publications
 cms_exclude: true
