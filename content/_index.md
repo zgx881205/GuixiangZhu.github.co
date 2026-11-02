@@ -15,7 +15,8 @@ sections:
       headings:
         about: 关于我
         education: 教育经历
-        interests:  兴趣方向
+        interests: 兴趣方向
+        experience: 研究经历 
     design:
       background:
         gradient_mesh:
