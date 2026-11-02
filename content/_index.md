@@ -7,15 +7,15 @@ sections:
   - block: resume-biography-3
     id: about
     content:
-      username: me
+      username: 朱桂祥
       text: ''
       button:
         text: 访问我的 GitHub
         url: https://github.com/zgx881205
       headings:
-        about: 关于我
+        about: 
         education: 教育经历
-        interests: 兴趣方向
+        interests: 商务智能、人工智能、大模型、推荐系统、智慧文旅和社会计算
     design:
       background:
         gradient_mesh:
