@@ -19,12 +19,15 @@ links:
   - icon: at-symbol
     url: zgx881205@gmail.com
     label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=example
+    label: Google Scholar
   - icon: brands/github
     url: https://github.com/zgx881205
     label: GitHub
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-3773-4097
-    label: ORCiD
+    label: ORCID
 interests:
   - 大模型
   - 人工智能
