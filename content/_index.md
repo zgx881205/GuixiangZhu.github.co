@@ -11,7 +11,7 @@ sections:
       text: ''
       button:
         text: 访问我的官方主页
-        url: https://github.com/zgx881205
+        url: http://cie.nufe.edu.cn/info/1053/7546.htm
       headings:
         about: 关于我
         education: 教育经历
