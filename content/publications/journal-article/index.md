@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Online purchase decisions for tourism e-commerce"
 authors:
 - me
 - Robert Ford
@@ -18,7 +18,7 @@ publication_types: ["article-journal"]
 
 # Publication metadata — structured fields used by citation styles and BibTeX export.
 publication:
-  name: "Journal of Source Themes"
+  name: " Electronic Commerce Research and Applications"
   volume: 1
   issue: 1
 
