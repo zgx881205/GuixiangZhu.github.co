@@ -20,7 +20,5 @@ main:
   - name: 新闻
     url: /#news
     weight: 13
-  - name: 官方主页
-    url: http://cie.nufe.edu.cn/info/1053/7546.htm
   - name: GitHub
     url: https://github.com/zgx881205
