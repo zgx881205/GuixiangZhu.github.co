@@ -78,5 +78,7 @@ awards:
     summary: Awarded for groundbreaking work on efficient training of large models.
     icon: hero/trophy
 skills:
-  - title: 智能体开发
-    summary:大模型应用开发
+  - name: Python
+    percent: 90
+  - name: 推荐系统
+    percent: 85
