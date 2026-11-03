@@ -28,8 +28,4 @@ sections:
     content:
       title: Awards
       username: me
-  - block: resume-languages
-    content:
-      title: Languages
-      username: me
 ---
