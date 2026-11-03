@@ -27,7 +27,7 @@ links:
     label: GitHub
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-3773-4097
-    label: ORCID
+    label: ORCiD
 interests:
   - 大模型
   - 人工智能
