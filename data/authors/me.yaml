@@ -77,3 +77,5 @@ awards:
     date: 2026-05-04
     summary: Awarded for groundbreaking work on efficient training of large models.
     icon: hero/trophy
+skills:
+  - title: 智能体开发
