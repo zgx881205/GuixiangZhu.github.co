@@ -57,8 +57,8 @@ education:
     end: 2011-06-30
 experience:
   - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+    org: 南京财经大学，计算机与人工智能学院，副教授
+    start: 2026-09-01
     summary: |
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
     button:
