@@ -12,7 +12,7 @@ main:
     url: courses/
     weight: 13
   - name: 指导竞赛
-    url: /#talks
+    url: /#competition
     weight: 14
   - name: 经历
     url: experience/
