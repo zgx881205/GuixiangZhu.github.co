@@ -21,7 +21,7 @@ sections:
       # Education or Experience section first?
       is_education_first: false
   - block: resume-skills
-    content:
+    content:大模型赋能的智能系统、智能体开发
       title: Skills & Hobbies
       username: me
   - block: resume-awards
