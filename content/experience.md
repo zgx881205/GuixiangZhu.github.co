@@ -1,6 +1,4 @@
 ---
-# Template examples are kept in source for later customization.
-# Remove these build/cascade rules after replacing their sample content.
 title: 'Experience'
 date: 2023-10-24
 type: landing
@@ -21,7 +19,7 @@ sections:
       # Education or Experience section first?
       is_education_first: false
   - block: resume-skills
-    content: 
+    content:
       title: Skills & Hobbies
       username: me
   - block: resume-awards
