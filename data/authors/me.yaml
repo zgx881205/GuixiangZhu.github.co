@@ -96,9 +96,9 @@ skills:
         level: 4
 
 languages:
-  - name: English
+  - name: Chinese
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
     label: Fluent
