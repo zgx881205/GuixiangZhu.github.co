@@ -20,14 +20,14 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: 技能爱好
       username: me
   - block: resume-awards
     content:
-      title: Awards
+      title: 荣誉
       username: me
   - block: resume-languages
     content:
-      title: Languages
+      title: 语言
       username: me
 ---
