@@ -36,7 +36,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-- block: collection
+  - block: collection
     content:
       title: Recent Publications
       text: ''
@@ -46,7 +46,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-- block: collection
+  - block: collection
     id: news
     content:
       title: Recent News
