@@ -25,7 +25,7 @@ sections:
       avatar:
         size: medium
         shape: circle
-- block: markdown
+  - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
