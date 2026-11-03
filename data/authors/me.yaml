@@ -77,8 +77,3 @@ awards:
     date: 2026-05-04
     summary: Awarded for groundbreaking work on efficient training of large models.
     icon: hero/trophy
-skills:
-  - name: Python
-    percent: 90
-  - name: 推荐系统
-    percent: 85
