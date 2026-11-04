@@ -20,7 +20,7 @@ sections:
   - block: collection
     content:
       title: 毕业去向
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: 南京财经大学计算机与人工智能学院电商实验室AI+课题组优秀毕业生
       count: 0
       filters:
         folders:
