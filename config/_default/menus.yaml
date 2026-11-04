@@ -14,12 +14,15 @@ main:
   - name: 指导竞赛
     url: /#competition
     weight: 14
+ - name: 指导学生
+    url: students/
+    weight: 15
   - name: 经历
     url: experience/
-    weight: 15
+    weight: 16
   - name: 新闻
     url: /#news
-    weight: 16
+    weight: 17
   - name: GitHub
     url: https://github.com/zgx881205
-    weight: 17
+    weight: 18
