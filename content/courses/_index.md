@@ -1,26 +1,24 @@
 ---
 # Template examples are kept in source for later customization.
 # Remove these build/cascade rules after replacing their sample content.
-<details>
-build:
-  render: never
-  list: never
-  publishResources: false
-title: Courses
-summary: My courses
-type: landing
+# build:
+ # render: never
+ # list: never
+ # publishResources: false
+# title: Courses
+# summary: My courses
+# type: landing
 
-cascade:
-  - build:
+# cascade:
+  # - build:
       render: never
       list: never
       publishResources: false
-  - target:
+  # - target:
       path: '{/courses/*/**}'
     type: docs
     params:
       show_breadcrumb: true
-<\details> 
 
 sections:
   - block: collection
