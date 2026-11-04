@@ -1,7 +1,8 @@
 ---
-title: "陈奕翰"
-summary: "曼切斯特大学硕士研究生"
-status: "南财本科生"
-tags: [升学]
-draft: false
+title: 陈奕翰
+year: 2021
+degree: 本科
+major: 梅西大数据
+destination: 升学
+company: 曼切斯特大学
 ---
