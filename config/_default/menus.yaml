@@ -14,7 +14,7 @@ main:
   - name: 指导竞赛
     url: /#competition
     weight: 14
- - name: 指导学生
+  - name: 指导学生
     url: /#students
     weight: 15
   - name: 经历
