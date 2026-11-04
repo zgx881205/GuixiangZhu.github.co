@@ -1,15 +1,7 @@
 ---
-title: 陈奕翰
-date: 2023-10-26
-links:
-  - type: site
-    url: https://github.com/pytorch/pytorch
-tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+title: "陈奕翰"
+summary: "江苏省科技厅产学研合作项目，由本人主持，已结题。"
+status: "结题"
+tags: [升学, 产学研合作, 结题]
+draft: false
 ---
-
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
-
-<!--more-->
