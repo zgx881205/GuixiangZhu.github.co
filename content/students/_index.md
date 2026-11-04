@@ -24,7 +24,7 @@ sections:
       count: 0
       filters:
         folders:
-          - projects
+          - students
     design:
       view: article-grid
       fill_image: false
