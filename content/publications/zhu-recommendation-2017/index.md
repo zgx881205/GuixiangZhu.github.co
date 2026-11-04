@@ -1,0 +1,40 @@
+---
+title: A recommendation engine for travel products based on topic sequential patterns
+authors:
+- Guixiang Zhu
+- Jie Cao
+- Changsheng Li
+- Zhiang Wu
+date: '2017-08-01'
+publishDate: '2026-11-04T07:40:25.960275Z'
+publication_types:
+- article-journal
+doi: 10.1007/s11042-017-4406-6
+abstract: Travel products recommendation has become one of emerging issues in the
+  realm of recommendation systems. The widely-used collaborative filtering algorithms
+  are usually difficult to be used for recommending travel products due to a number
+  of reasons, including (1) the content of travel products is very complex, (2) the
+  user-item matrix is extremely sparse, and (3) the cold-start users are widely existing.
+  To tackle these issues, we try to exploit Web server logs for generating recommendation,
+  and present a novel recommendation engine (SECT for short) for travel products based
+  on topic sequential patterns. In detail, we first extract topics from semantic description
+  of every Web page. Then, we mine topic frequent sequential patterns and their target
+  products to form click patterns library. At last, we propose a Markov n-gram model
+  for matching the real-time click-stream of users with the click patterns library
+  and thus computing recommendation scores. Experimental results on a real-world travel
+  dataset demonstrate that the SECT prevails over the state-of-art baseline algorithms.
+  In particular, SECT shows merits in improving the both coverage and accuracy for
+  recommending products to cold-start users. Also, SECT is effective to recommend
+  long tail items and outperform baseline algorithms.
+tags:
+- /unread
+- Cold-start users
+- Frequent sequential pattern
+- Long tail items
+- Recommender system
+- Travel recommendation
+- Web server logs
+links:
+- name: URL
+  url: https://doi.org/10.1007/s11042-017-4406-6
+---
