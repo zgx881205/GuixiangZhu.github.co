@@ -5,11 +5,11 @@ build:
   render: never
   list: never
   publishResources: false
-cascade:
-  build:
-    render: never
-    list: never
-    publishResources: false
+# cascade:
+ # build:
+   # render: never
+   # list: never
+   # publishResources: false
 
 title: Publications
 cms_exclude: true
