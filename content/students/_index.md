@@ -1,39 +1,35 @@
 ---
-title: 毕业学生去向
+# Template examples are kept in source for later customization.
+# Remove these build/cascade rules after replacing their sample content.
+# build:
+  # render: never
+  # list: never
+  # publishResources: false
+#cascade:
+ # build:
+  #  render: never
+  # list: never
+  # publishResources: false
+
+title: '毕业去向'
+date: 2024-05-19
+type: landing
+
+# Page sections
+sections:
+  - block: collection
+    content:
+      title: Selected Projects
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      count: 0
+      filters:
+        folders:
+          - projects
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+      show_date: false
+      show_read_time: false
+      show_read_more: false
 ---
-
-### 就业
-
-<div class="student-grid">
-
-<div class="student-card">
-<strong>张三</strong>｜2026 届硕士<br>
-去向：就业<br>
-单位：南京某智能科技有限公司
-</div>
-
-<div class="student-card">
-<strong>王五</strong>｜2024 届硕士<br>
-去向：就业<br>
-单位：上海某人工智能科技有限公司
-</div>
-
-</div>
-
-### 考研
-
-<div class="student-grid">
-
-<div class="student-card">
-<strong>李四</strong>｜2025 届本科<br>
-去向：考研<br>
-单位：某某大学计算机科学与技术
-</div>
-
-<div class="student-card">
-<strong>赵六</strong>｜2023 届本科<br>
-去向：考研<br>
-单位：某某大学软件工程专业
-</div>
-
-</div>
