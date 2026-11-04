@@ -19,7 +19,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: 毕业去向
       text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       count: 0
       filters:
