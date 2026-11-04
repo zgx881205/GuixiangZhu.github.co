@@ -1,6 +1,7 @@
 ---
 # Template examples are kept in source for later customization.
 # Remove these build/cascade rules after replacing their sample content.
+<details>
 build:
   render: never
   list: never
@@ -19,6 +20,7 @@ cascade:
     type: docs
     params:
       show_breadcrumb: true
+<\details> 
 
 sections:
   - block: collection
