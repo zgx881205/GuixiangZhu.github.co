@@ -1,5 +1,8 @@
 ---
 title: Compactness Preserving Community Computation Via a Network Generative Process
+featured: true
+draft: false
+
 authors:
 - Jie Cao
 - Yuyao Wang
@@ -8,7 +11,6 @@ authors:
 - Haicheng Tao
 - Guixiang Zhu
 date: '2022-10-01'
-publishDate: '2026-11-04T07:40:26.103334Z'
 publication_types:
 - article-journal
 doi: 10.1109/TETCI.2021.3110086
