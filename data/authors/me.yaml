@@ -101,10 +101,5 @@ languages:
   - name: English
     level: 4
     label: Fluent
-students:
-  - name: 指导学生
-    title: 陈奕翰
-    year: 2025
-    degree: 本科
-    destination: 读研 
+
     company: 曼切斯特大学
