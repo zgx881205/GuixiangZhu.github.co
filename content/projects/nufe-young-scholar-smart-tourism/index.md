@@ -2,7 +2,7 @@
 title: "大数据驱动的智慧旅游营销决策"
 summary: "南京财经大学青年学者计划项目，由本人主持。"
 status: "在研"
-tags: [Project, 校级项目, 在研]
+tags: [项目, 校级项目, 在研]
 draft: false
 ---
 
