@@ -4,7 +4,7 @@ title: 数智文旅研究前沿
 summary: 面向工商管理博士专业。
 type: docs
 tags:
-  - Course
+  - 课程
   - 博士
 ---
 
