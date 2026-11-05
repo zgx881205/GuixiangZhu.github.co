@@ -2,7 +2,7 @@
 title: "景语慧游"
 summary: "2025年度南京财经大学大学生创新创业训练计划项目, 国家级项目立项, 结题."
 tags:
-  - Competition
+  - 竞赛
 draft: false
 ---
 
