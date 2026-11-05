@@ -10,7 +10,6 @@ sections:
       filters:
         folders:
           - competitions
-        tag: competition
     design:
       view: card
       columns: 2
