@@ -4,7 +4,7 @@ title: 大数据运营
 summary: 面向大数据（梅西）本科专业。
 type: docs
 tags:
-  - Course
+  - 课程
   - 本科
 ---
 
