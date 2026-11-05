@@ -2,7 +2,7 @@
 title: "面向跨境电商平台的智能营销决策模型研究"
 summary: "江苏省科技副总横向课题，由本人主持，已结题。"
 status: "结题"
-tags: [Project, 横向课题, 结题]
+tags: [项目, 横向课题, 结题]
 draft: false
 ---
 
