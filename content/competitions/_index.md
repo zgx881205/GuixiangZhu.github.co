@@ -10,7 +10,7 @@ sections:
       filters:
         folders:
           - competitions
-        tag: 竞赛
+        tag: competition
     design:
       view: card
       columns: 2
