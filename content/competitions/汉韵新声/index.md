@@ -2,7 +2,7 @@
 title: "汉韵新声"
 summary: "2026年度南京财经大学大学生创新创业训练计划项目, 国家级项目立项, 在研."
 tags:
-  - Competition
+  - 竞赛
 draft: false
 ---
 
