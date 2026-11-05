@@ -2,7 +2,7 @@
 title: "舆情之眼"
 summary: "2025 年江苏省大学生计算机设计大赛, 省三等奖."
 tags:
-  - Competition
+  - 竞赛
 draft: false
 ---
 
