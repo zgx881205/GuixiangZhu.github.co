@@ -2,7 +2,7 @@
 title: "文旅智语"
 summary: "第十一届全国财经院校创新创业大赛, 国赛二等奖."
 tags:
-  - Competition
+  - 竞赛
 draft: false
 ---
 
