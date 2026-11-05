@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: 指导竞赛
+      title: AI作品
       count: 0
       filters:
         folders:
