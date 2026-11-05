@@ -2,7 +2,7 @@
 title: "文旅智语"
 summary: "2026年中国大学生计算机设计大赛校内选拔赛，校二等奖."
 tags:
-  - Competition
+  - 竞赛
 draft: false
 ---
 
