@@ -1,5 +1,8 @@
 ---
 title: "Online purchase decisions for tourism e-commerce"
+
+draft: true
+
 authors:
 - me
 - Robert Ford
