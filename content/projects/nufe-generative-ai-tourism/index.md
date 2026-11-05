@@ -2,7 +2,7 @@
 title: "基于生成式人工智能的在线旅游推荐研究"
 summary: "南京财经大学校级一般课题，由本人主持，已结题。"
 status: "结题"
-tags: [Project, 校级项目, 结题]
+tags: [项目, 校级项目, 结题]
 draft: false
 ---
 
