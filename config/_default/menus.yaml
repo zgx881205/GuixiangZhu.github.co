@@ -12,7 +12,7 @@ main:
     url: courses/
     weight: 13
   - name: 指导竞赛
-    url: competition/
+    url: competitions/
     weight: 14
   - name: 指导学生
     url: students
