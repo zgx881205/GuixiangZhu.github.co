@@ -4,7 +4,7 @@ title: 电子商务数据分析
 summary: 面向计算机科学与技术、软件工程和大数据（梅西）本科专业。
 type: docs
 tags:
-  - Course
+  - 课程
   - 本科
 ---
 
