@@ -4,7 +4,7 @@ title: 人工智能
 summary: 面向 MBA、工商管理学和旅游管理硕士专业。
 type: docs
 tags:
-  - Course
+  - 课程
   - 硕士
 ---
 
