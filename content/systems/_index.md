@@ -9,7 +9,7 @@ sections:
       count: 0
       filters:
         folders:
-          - competitions
+          - systems
     design:
       view: card
       columns: 2
