@@ -2,7 +2,7 @@
 title: "旅游多场景视角下在线旅游可解释方法研究"
 summary: "江苏省社科基金一般项目，由本人主持，已结题。"
 status: "结题"
-tags: [Project, 纵向项目, 结题]
+tags: [项目, 纵向项目, 结题]
 draft: false
 ---
 
