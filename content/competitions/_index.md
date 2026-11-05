@@ -10,8 +10,8 @@ sections:
       filters:
         folders:
           - competitions
-        tag: Competition
-    design:
+        tag: 
+    design:竞赛
       view: card
       columns: 2
 ---
