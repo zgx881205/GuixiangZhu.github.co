@@ -2,7 +2,7 @@
 title: "跨境电商平台的智能营销决策模型研究"
 summary: "江苏省科技厅产学研合作项目，由本人主持，已结题。"
 status: "结题"
-tags: [Project, 产学研合作, 结题]
+tags: [项目, 产学研合作, 结题]
 draft: false
 ---
 
