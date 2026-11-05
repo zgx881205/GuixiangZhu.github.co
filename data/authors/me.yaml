@@ -71,6 +71,12 @@ experience:
     end: 2026-09-29
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - role: 研究员
+    org: 南京财经大学，国家级电子商务信息处理国际联合研究中心
+    start: 2013-08-01
+    end: 2020-09-28
+    summary: |
+      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 awards:
   - title: 青年五四奖章
     awarder: 南京财经大学
