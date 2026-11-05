@@ -2,7 +2,7 @@
 title: "浮游山海"
 summary: "南京财经大学第八届“互联网+”大学生创新创业大赛, 校三等奖."
 tags:
-  - Competition
+  - 竞赛
 draft: false
 ---
 
