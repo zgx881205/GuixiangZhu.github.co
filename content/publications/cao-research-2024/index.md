@@ -33,7 +33,6 @@ abstract: 'Although lithium-ion batteries offer significant potential in a wide 
   features for a double-layer LSTM and double-layer MLP model, regardless of the level
   of battery aging.'
 tags:
-- /unread
 - Cycle life
 - Li-ion batteries
 - Machine learning
