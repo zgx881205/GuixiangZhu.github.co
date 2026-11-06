@@ -22,7 +22,6 @@
 
 sections:
   - block: collection
-    id: groups
     content:
       title: Courses
       filters:
@@ -34,5 +33,5 @@ sections:
       show_read_time: false
       show_date: false
       show_read_more: false
-      columns: 3
+      columns: 2
 ---
