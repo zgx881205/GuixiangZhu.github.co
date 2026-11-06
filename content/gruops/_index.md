@@ -22,7 +22,6 @@
 
 sections:
   - block: collection
-    id: groups
     content:
       title: 研究小组
       filters:
