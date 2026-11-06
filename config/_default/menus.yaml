@@ -18,7 +18,7 @@ main:
     url: systems/
     weight: 15
   - name: 课题组
-    url: groups/
+    url: gruops/
     weight: 16
   - name: 指导学生
     url: students
