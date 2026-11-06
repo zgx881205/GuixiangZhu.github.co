@@ -1,0 +1,10 @@
+<style>
+@media (min-width: 768px) {
+  #section-content-collection:has(a[href*="/competitions/"])
+  .container[class~="grid-cols-1"] {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    max-width: none;
+    width: 100%;
+  }
+}
+</style>
