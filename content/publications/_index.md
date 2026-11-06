@@ -18,7 +18,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Publications
+      title: 期刊会议
       count: 0
       filters:
         folders:
