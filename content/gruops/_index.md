@@ -22,7 +22,7 @@
 
 sections:
   - block: collection
-    id: courses
+    id: groups
     content:
       title: 研究小组
       filters:
