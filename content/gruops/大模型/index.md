@@ -1,7 +1,7 @@
 ---
 linkTitle: 大模型组
 title: 大模型组
-summary: 研究大模型
+summary: 大模型组研究大模型微调和本地化部署，智能体开发，检索增强生成RAG（Retrieval-augmented Generation），智能体开发、大模型赋能场景开发
 type: docs
 tags:
   - 本科
