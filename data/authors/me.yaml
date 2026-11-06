@@ -82,7 +82,12 @@ awards:
     awarder: 南京财经大学
     date: 2026-05-04
     summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+    icon: hero/trophy            CSC国家公派留学奖学金
+  - title: CSC国家公派留学奖学金
+    awarder: 国家留学基金委
+    date: 2017-05-04
+    summary: Awarded for groundbreaking work on efficient training of large models.
+    icon: hero/trophy            
 skills:
   - name: Technical Skills
     items:
