@@ -48,6 +48,7 @@ tags:
 - Permanent magnets
 - Power system measurements
 - Stator windings
+featured: true
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/11346022
