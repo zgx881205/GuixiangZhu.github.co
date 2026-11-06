@@ -24,9 +24,9 @@ sections:
   - block: collection
     id: courses
     content:
-      title: Courses
+      title: 研究小组
       filters:
-        tag: Course
+        tag: 研究小组
         kinds:
           - section
     design:
