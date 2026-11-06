@@ -17,15 +17,18 @@ main:
   - name: AI作品
     url: systems/
     weight: 15
+  - name: 课题组
+    url: systems/
+    weight: 16
   - name: 指导学生
     url: students
-    weight: 16
+    weight: 17
   - name: 经历
     url: experience/
-    weight: 17
+    weight: 18
   - name: 新闻
     url: /#news
-    weight: 18
+    weight: 19
   - name: GitHub
     url: https://github.com/zgx881205
-    weight: 19
+    weight: 20
