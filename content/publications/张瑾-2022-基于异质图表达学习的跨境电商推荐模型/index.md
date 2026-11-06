@@ -11,4 +11,5 @@ publishDate: '2026-11-04T07:40:26.291733Z'
 publication_types:
 - article-journal
 publication: '*电子与信息学报*'
+featured: true
 ---
