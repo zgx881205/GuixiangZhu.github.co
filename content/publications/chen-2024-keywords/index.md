@@ -11,4 +11,5 @@ publishDate: '2026-11-04T07:40:26.202007Z'
 publication_types:
 - article-journal
 publication: '*Information Processing & Management*'
+featured: true
 ---
