@@ -11,6 +11,6 @@
    # list: never
    # publishResources: false
 
-title: Publications
+title: 期刊会议
 cms_exclude: true
 ---
