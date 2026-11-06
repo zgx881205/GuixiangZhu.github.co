@@ -1,5 +1,4 @@
 <style>
-/* 课程、AI作品、课题组、指导学生、指导竞赛列表：宽屏两列 */
 #section-content-collection .container[class~="grid-cols-1"] {
   max-width: 1200px;
   width: 100%;
@@ -8,8 +7,12 @@
 }
 
 @media (min-width: 768px) {
-  #section-content-collection .container[class~="grid-cols-1"] {
+  section.hbb-section .container[class~="grid-cols-1"] {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+    max-width: 1200px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 </style>
