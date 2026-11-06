@@ -23,7 +23,7 @@
 sections:
   - block: collection
     content:
-      title: Courses
+      title: 课程
       filters:
         tag: Course
         kinds:
@@ -34,4 +34,5 @@ sections:
       show_date: false
       show_read_more: false
       columns: 2
----
+
+    ---
