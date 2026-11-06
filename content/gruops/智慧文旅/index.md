@@ -6,4 +6,5 @@ type: docs
 tags:
   - 本科
   - 硕士
+members: "王方胜、欧聿芩、孟宇佳、谢社仪"
 ---
