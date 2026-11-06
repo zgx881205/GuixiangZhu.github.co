@@ -31,8 +31,8 @@ sections:
           - section
     design:
       view: article-grid
+      columns: 2
       show_read_time: false
       show_date: false
       show_read_more: false
-      columns: 2
 ---
