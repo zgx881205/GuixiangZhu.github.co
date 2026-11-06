@@ -22,7 +22,7 @@
 
 sections:
   - block: collection
-    id: courses
+    id: groups
     content:
       title: Courses
       filters:
