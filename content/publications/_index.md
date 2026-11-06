@@ -13,4 +13,17 @@
 
 title: 期刊会议
 cms_exclude: true
+type: landing
+
+sections:
+  - block: collection
+    content:
+      title: Publications
+      count: 0
+      filters:
+        folders:
+          - publications
+    design:
+      view: citation
+      columns: 1
 ---
