@@ -34,4 +34,4 @@ sections:
       show_date: false
       show_read_more: false
       columns: 2
-    ---
+---
