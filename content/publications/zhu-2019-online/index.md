@@ -11,4 +11,5 @@ publishDate: '2026-11-04T07:40:26.243219Z'
 publication_types:
 - article-journal
 publication: '*Electronic Commerce Research and Applications*'
+featured: true
 ---
