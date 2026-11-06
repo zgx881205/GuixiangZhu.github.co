@@ -32,7 +32,6 @@ abstract: High-speed permanent magnet (HSPM) machines are pivotal in aerospace, 
   the maximum winding temperature by 15.3textasciicircumi̧rc textC and improve operational
   efficiency by 0.94%.
 tags:
-- /unread
 - Analytical models
 - Couplings
 - Deep reinforcement learning (DRL)
