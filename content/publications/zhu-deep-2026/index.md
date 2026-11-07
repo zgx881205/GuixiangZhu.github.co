@@ -40,7 +40,6 @@ abstract: With the rapid evolution of sixth-generation (6G) mobile communication
   robust solution for optimizing THz communication performance in complex maritime
   or urban environments.
 tags:
-- /unread
 - 6G
 - Absorption
 - Autonomous aerial vehicles
