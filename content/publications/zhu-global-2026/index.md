@@ -39,7 +39,6 @@ abstract: Community deception in social networks is a strategy used to address p
   achieves consistent advantages over the state-of-the-art methods in terms of community
   deception’s effectiveness and efficiency.
 tags:
-- /unread
 - Co-evolution
 - Community deception
 - Complex network analysis
