@@ -13,6 +13,7 @@ publication_types:
 publication: '*Electronic Commerce Research and Applications*'
 featured: true
 doi: 10.1016/j.elerap.2019.100887
+tags:
 - Purchase prediction
 - Tourism E-commerce
 - Clickstream data
