@@ -1,10 +1,10 @@
 ---
-title: 发明专利
+title: 专利软著
 type: landing
 sections:
   - block: collection
     content:
-      title: 发明专利
+      title: 专利软著
       count: 0
       filters:
         folders:
