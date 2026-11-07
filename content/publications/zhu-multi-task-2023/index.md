@@ -40,7 +40,6 @@ abstract: 'Session-based travel packages recommendation aims to predict users’
   over several competitive methods, meanwhile provides an interpretation for the generated
   recommendation list.'
 tags:
-- /unread
 - auto-encoder
 - graph mining
 - multi-task learning
