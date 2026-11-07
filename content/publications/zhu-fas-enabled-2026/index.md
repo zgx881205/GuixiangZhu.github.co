@@ -34,7 +34,6 @@ abstract: Cognitive radio (CR) has emerged as a promising solution to meet the s
   up to 25% higher detection accuracy compared to existing methods under cooperative
   SSDF attacks, with only 15% additional computational overhead.
 tags:
-- /unread
 - Antennas
 - Cognitive radio
 - cooperative spectrum sensing
