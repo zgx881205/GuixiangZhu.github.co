@@ -23,5 +23,8 @@ abstract: With the rapid development of tourism e-commerce, a huge amount of onl
   results demonstrate that the proposed features can substantially improve the performance
   of the ensemble classifier for purchase prediction.
 tags:
-- /unread
+- Tourism E-commerce
+- Feature Construction
+- Class Imbalance
+- Ensemble Classifier
 ---
