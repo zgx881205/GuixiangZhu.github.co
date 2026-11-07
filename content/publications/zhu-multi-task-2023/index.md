@@ -14,7 +14,7 @@ date: '2023-05-24'
 publishDate: '2026-11-04T07:40:25.943281Z'
 publication_types:
 - article-journal
-featured: ture
+featured: true
 doi: 10.1145/3577032
 abstract: 'Session-based travel packages recommendation aims to predict users’ next
   click based on their current and historical sessions recorded by Online Travel Agencies
