@@ -35,7 +35,10 @@ abstract: In the field of electrical power material management, it is paramount 
   Extensive experiments conducted on the real-life electric power materials show that
   our proposed model outperforms state-of-the-art methods.
 tags:
-- /unread
+ - Recommender system
+ - Graph neural networks
+ - Topic model
+ - Transformer
 links:
 - name: URL
   url: https://peerj.com/articles/cs-3023
