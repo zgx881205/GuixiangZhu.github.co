@@ -12,6 +12,7 @@ publication_types:
 - article-journal
 publication: '*Information Processing & Management*'
 featured: true
+doi: 10.1016/j.ipm.2024.103874
 abstract: Travel recommendation aims to infer travel intentions of users by analyzing their historical
   behaviors on Online Travel Agencies (OTAs). However, crucial keywords in clicked travel
   product titles, such as destination and itinerary duration, indicating tourists’ intentions, are
@@ -35,5 +36,8 @@ tags:
   - Travel recommendation
   - Deep neural network
   - Contrastive learning
+links:
+  - name: URL
+    url: https://linkinghub.elsevier.com/retrieve/pii/S0306457324002334
 
 ---
