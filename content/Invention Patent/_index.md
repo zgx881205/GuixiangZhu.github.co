@@ -10,6 +10,10 @@ sections:
         folders:
           - Invention Patent
     design:
-      view: card
+      view: article-grid
+      fill_image: false
       columns: 2
+      show_date: false
+      show_read_time: false
+      show_read_more: false
 ---
