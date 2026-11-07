@@ -8,6 +8,7 @@ publishDate: '2026-11-04T07:40:26.176000Z'
 publication_types:
 - article-journal
 publication: '*Expert Systems with Applications*'
+doi: 10.1016/j.eswa.2024.126246
 abstract: Itinerary recommendation plays a vital role in enhancing tourists’ experiences by offering personalized travel
   suggestions for navigating unfamiliar urban environments. Typically, it seeks to recommend a sequence of
   Points of Interest (POIs) for users by considering various factors, such as time constraints, itinerary length,
@@ -36,5 +37,8 @@ tags:
   - Itinerary recommendation
   - Contrastive learning
   - Deep neural network
+links:
+  - name: URL
+    url: https://linkinghub.elsevier.com/retrieve/pii/S0957417424031130
 
 ---
