@@ -191,7 +191,13 @@
                 </div>
               {{ end }}
             </div>
-            <span class="truncate max-w-[9rem] text-sm">{{ $profile.title }}</span>
+            <span class="truncate max-w-[9rem] text-sm">
+             {{ if eq $item.Section "publications" }}
+                 {{ index $item.Params.authors 0 | strings.TrimSpace }}
+             {{ else }}
+                 {{ $profile.title }}
+             {{ end }}
+            </span>
           </div>
           <span class="opacity-40">•</span>
           {{ end }}
