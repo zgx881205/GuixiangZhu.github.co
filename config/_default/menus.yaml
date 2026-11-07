@@ -9,7 +9,7 @@ main:
     url: projects/
     weight: 12
   - name: 专利软著
-    url: Invention Patent/
+    url: patents/
     weight: 13
   - name: 课程
     url: courses/
