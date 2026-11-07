@@ -27,7 +27,6 @@ abstract: Travel products recommendation has become one of emerging issues in th
   recommending products to cold-start users. Also, SECT is effective to recommend
   long tail items and outperform baseline algorithms.
 tags:
-- /unread
 - Cold-start users
 - Frequent sequential pattern
 - Long tail items
