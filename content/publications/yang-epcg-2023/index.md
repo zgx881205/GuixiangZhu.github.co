@@ -24,7 +24,6 @@ abstract: Community detection algorithms are able to mine and analyze community 
   three classical community detection algorithms. The results validate that our method
   is outperforming the baseline method.
 tags:
-- /unread
 - Community deception
 - Community detection
 - Genetic algorithm
