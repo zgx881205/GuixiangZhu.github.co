@@ -28,17 +28,17 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 代表作
       filters:
         folders:
           - publications
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     content:
-      title: Recent Publications
+      title: 最近发表
       text: ''
       filters:
         folders:
@@ -49,7 +49,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: 最近新闻
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
