@@ -8,27 +8,30 @@ main:
   - name: 项目
     url: projects/
     weight: 12
+  - name: 软著
+    url: Invention Patent/
+    weight: 13
   - name: 课程
     url: courses/
-    weight: 13
+    weight: 14
   - name: 指导竞赛
     url: competitions/
-    weight: 14
+    weight: 15
   - name: AI作品
     url: systems/
-    weight: 15
+    weight: 16
   - name: 课题组
     url: gruops/
-    weight: 16
+    weight: 17
   - name: 指导学生
     url: students
-    weight: 17
+    weight: 18
   - name: 经历
     url: experience/
-    weight: 18
+    weight: 19
   - name: 新闻
     url: /#news
-    weight: 19
+    weight: 20
   - name: GitHub
     url: https://github.com/zgx881205
-    weight: 20
+    weight: 21
