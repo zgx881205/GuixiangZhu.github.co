@@ -8,7 +8,7 @@ sections:
       count: 0
       filters:
         folders:
-          - Invention Patent
+          - patents
     design:
       view: article-grid
       fill_image: false
