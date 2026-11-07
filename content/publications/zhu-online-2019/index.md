@@ -7,7 +7,6 @@ publishDate: '2026-11-07T03:42:47.482179Z'
 publication_types:
 - article-journal
 doi: 10.1016/j.elerap.2019.100887
-featured: true
 abstract: 'In this study, we consider the purchase prediction problem in the context
   of e-tourism, an emerging and prevailing application in e-commerce. Although a wide
   array of studies have been taken on purchase prediction, little analysis has been
@@ -37,4 +36,5 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1016/j.elerap.2019.100887
+featured: true
 ---
