@@ -6,5 +6,7 @@ type: docs
 tags:
   - 本科
   - 硕士
-members: "陈媛媛、翟瑞杰"
+members:
+  - 陈媛媛
+  - 翟瑞杰
 ---
