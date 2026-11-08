@@ -29,6 +29,7 @@ sections:
     id: papers
     content:
       title: 代表作
+      count: 0
       filters:
         folders:
           - publications
