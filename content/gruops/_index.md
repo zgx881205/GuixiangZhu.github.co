@@ -19,7 +19,8 @@
     # type: docs
     # params:
       # show_breadcrumb: true
-
+title: 课题组
+summary: 围绕研究方向划分的小组
 sections:
   - block: collection
     content:
