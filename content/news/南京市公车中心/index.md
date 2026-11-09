@@ -9,7 +9,7 @@ cover:
   image: "new1.jpg"
 ---
 
-![授课讲台](new1.jpgg)
+![授课讲台](new1.jpg)
 
 ![授课场景](new2.jpg)
 
