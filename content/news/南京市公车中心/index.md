@@ -6,7 +6,7 @@ tags:
   - 学院新闻
   - 指导竞赛
 cover:
-  image: "https://cie.nufe.edu.cn/__local/A/04/88/977C15BBF022B982468453EFE27_3D35A3FE_17BF70.png"
+  image: ".png"
 ---
 
 ![参赛师生合影](https://cie.nufe.edu.cn/__local/A/04/88/977C15BBF022B982468453EFE27_3D35A3FE_17BF70.png)
