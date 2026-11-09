@@ -11,6 +11,6 @@
     # list: never
     # publishResources: false
 
-title: Blog
+title: 最近新闻
 view: article-grid
 ---
