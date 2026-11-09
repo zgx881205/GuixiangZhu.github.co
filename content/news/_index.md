@@ -1,1 +1,4 @@
-# 1
+---
+title: news
+view: article-grid
+---
