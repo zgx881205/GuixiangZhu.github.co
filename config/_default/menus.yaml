@@ -30,7 +30,7 @@ main:
     url: experience/
     weight: 19
   - name: 新闻
-    url: /#news
+    url: news/
     weight: 20
   - name: GitHub
     url: https://github.com/zgx881205
