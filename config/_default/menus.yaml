@@ -26,11 +26,11 @@ main:
   - name: 指导学生
     url: students
     weight: 18
-  - name: 经历
-    url: experience/
-    weight: 19
   - name: 新闻
     url: news/
+    weight: 19
+  - name: 经历
+    url: experience/
     weight: 20
   - name: GitHub
     url: https://github.com/zgx881205
