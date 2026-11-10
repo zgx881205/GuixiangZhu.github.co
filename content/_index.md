@@ -58,7 +58,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-           - blog
+           - news
         author: ''
         category: ''
         tag: ''
