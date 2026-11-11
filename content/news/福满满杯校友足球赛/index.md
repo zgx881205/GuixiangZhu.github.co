@@ -12,17 +12,17 @@ featured: false
 
 金秋的南财，建校70周年的喜气还没散，足球的哨声又响了。七秩华诞，校友回家，有人叙旧，有人合影，还有人悄悄换上球鞋——毕竟回家不踢一脚，总觉得欢庆少点汗味。
 
-![福满满杯校友足球赛现场](https://mmbiz.qpic.cn/mmbiz_jpg/uwfgQWjNfoaCuzEFs2BquRP5ia2kVB8g12jGWu3WQqxQ5OF89olHq23OXWaqqCmSWmZoeVicxbslUibaFeqe1Q35g7DFDVQkGv5JgN1icic9ficKQ/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
+![福满满杯校友足球赛现场](01.jpg)
 
 本次“福满满杯”校友足球赛由南京财经大学校友会、工会、体育部联合主办，教工足球协会、校友足球俱乐部承办。来自全国各地的200余名校友、教职工与在校生组成9支队伍，分三个竞赛序列，在仙林校区圣中苑·山谷足球场展开角逐。
 
 校党委常委、副校长赵国栋出席开幕式并为比赛开球——一脚开球，球飞向哪边不重要，重要的是大家都觉得自己能赢。
 
-![党委常委、副校长赵国栋出席开幕式并开球](https://mmbiz.qpic.cn/sz_mmbiz_jpg/uwfgQWjNfoaM1JzcfaEDZJjiaSgpuvSclBKPYOYXUvkhm5HrovWw2EfW6D68zfBicPtoG03y1RB9XoXVvg1JONicVV3vusicETWicx5RkibN43o30/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
+![党委常委、副校长赵国栋出席开幕式并开球](02.jpg)
 
 *党委常委、副校长赵国栋出席开幕式并开球*
 
-![校友足球俱乐部周毓华会长致欢迎辞](https://mmbiz.qpic.cn/mmbiz_jpg/uwfgQWjNfobRl5SDSUGlDibtmAickRoyasEN3ficEspmkH5DDoaulzepPqrll5OMyqfHk8IoNmerib37xSAgPqUPWX48ia57ArhEZDCIQ7paSKd4/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2)
+![校友足球俱乐部周毓华会长致欢迎辞](03.jpg)
 
 *校友足球俱乐部周毓华会长致欢迎辞*
 
@@ -34,13 +34,13 @@ featured: false
 
 广东校友队首轮3:1赢下南北大战，陈继青、吴欣、黄中佑表现抢眼，可惜后劲不足，憾失出线权；长途跋涉的京津冀校友队手握1分位列第四，但门将潘毅让人印象深刻。
 
-![A组小组赛现场之一](https://mmbiz.qpic.cn/sz_mmbiz_jpg/uwfgQWjNfoYMeDOouIcvcVbVnWdNI6oIWrdDYfPVxCQAJ8XSSnW14xnc4NQNiaIFfFsM9CRsj1FKRTQJDZicOxkibQFz5zs3FFYQQpkgfxwvXA/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
+![A组小组赛现场之一](04.jpg)
 
-![A组小组赛现场之二](https://mmbiz.qpic.cn/sz_mmbiz_jpg/uwfgQWjNfoa2GGzhWqo4NqOwPsib1bRnMfr9CFbV5zI0RALpbu8JzvNnrkB9wNe8EmcibhWiakw0e9lPabf6vUdd7NDoAvXU4nlNGvZVNshiasQ/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
+![A组小组赛现场之二](05.jpg)
 
-![A组小组赛现场之三](https://mmbiz.qpic.cn/mmbiz_jpg/uwfgQWjNfobib8ibVFG859Se7hcD3hiaq0hzXpg1gLgyVyjwObts6eNF23jNENuLcPytNQBTcFDgmicQNVJajPVePziak7x7QU3YlK0L2k3YnDHs/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5)
+![A组小组赛现场之三](06.jpg)
 
-![A组小组赛现场之四](https://mmbiz.qpic.cn/mmbiz_jpg/uwfgQWjNfoY6Np5yF0F83r84tBWU18ldbnuzv62tYulRuwAg49YrsK3eu23IMzFUwp1S4l5XgaZHHdFpreM4lOxzJ7gxiabKiaORbiaH7q2C3M/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=6)
+![A组小组赛现场之四](07.jpg)
 
 B组上演长三角之争。南京校友队和苏州校友队前两轮均两战两胜，携手提前出线。南京队胜在阵容稳定，队长潘晋与冯诚、钟卿、吴兴组成强大攻击群，震动山谷；新生代祝希文、徐扬更是冲击力十足。
 
@@ -48,13 +48,13 @@ B组上演长三角之争。南京校友队和苏州校友队前两轮均两战�
 
 江浙沪校友队虽有陆磊、程博彧一众悍将，但因缺乏磨合排名第三；校教职工联队则因多位老师忙于70周年活动缺阵，战绩不佳排名末席——毕竟校庆面前，足球也得让让路。
 
-![B组小组赛现场之一](https://mmbiz.qpic.cn/sz_mmbiz_jpg/uwfgQWjNfoZBbKvYicZI4BkASzQdUwJ7UcaQn5cAWS19vEYWW0Swo2J9hib4VfXX05QGCnJjC91dSDwicPvc807dU69NvH7rZu9icpHnrgYFaH0/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7)
+![B组小组赛现场之一](08.jpg)
 
-![B组小组赛现场之二](https://mmbiz.qpic.cn/sz_mmbiz_jpg/uwfgQWjNfobLyvn3UkdQcXFnZWqBLDiaL9Og6PBlibcibNYrxaUcLMfPGURqtpLblCaZF7Qh9CPgaM9koY9Ehia0fU7YCjkT0icPOwR6Gd2eP9zA/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=8)
+![B组小组赛现场之二](09.jpg)
 
-![B组小组赛现场之三](https://mmbiz.qpic.cn/mmbiz_jpg/uwfgQWjNfoaP0KkY4opXdCDwoGfu06al4uWMcBvs1D9hmochHWiakAlFo32fYlok2ibP8Sf4IABvxgkB4D2KDQgXhOJUiaGnBFphxwZZCKsM7g/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=9)
+![B组小组赛现场之三](10.jpg)
 
-![B组小组赛现场之四](https://mmbiz.qpic.cn/mmbiz_jpg/uwfgQWjNfoaSuB1NGmNsNbeNobWYEdSrVrbeXYcCaEJuTTmwMJCIunamTwmMCceJmVgfLmJ6O4ltcsBQkq9loZWp7tzOt8GDX2UdOvXbMtc/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=10)
+![B组小组赛现场之四](11.jpg)
 
 ## 女足挑战赛：王老师一锤定音，校友联队“险胜”
 
@@ -62,7 +62,7 @@ B组上演长三角之争。南京校友队和苏州校友队前两轮均两战�
 
 女足小队员一丝不苟，踢得有模有样；各路校友施展绝技，场边呐喊阵阵。对外联络处王冲老师表现十分出色，门前冷静得像在批文件，一脚推射破门，帮助校友联队1:0小胜。女足小姑娘们赛后表示：下次还来。
 
-![女足挑战赛现场](https://mmbiz.qpic.cn/mmbiz_jpg/uwfgQWjNfoYEkZoVXUnnrUqNbHibwZUlic6OxXASaEjmmGhpKibQ5qTh7qb68O64eaWuLNmUgXRhb1ux1vZFeoqJHrRbHrhvfxDbyxrbqALibWA/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=11)
+![女足挑战赛现场](12.jpg)
 
 ## 淘汰赛：点球心跳，门将封神
 
@@ -72,7 +72,7 @@ B组上演长三角之争。南京校友队和苏州校友队前两轮均两战�
 
 另一边苏州与金融也鏖战至点球，双方经过13轮才分出胜负——观战球迷手机电量都踢没了，苏州队技高一筹跻身决赛。
 
-![淘汰赛现场](https://mmbiz.qpic.cn/sz_mmbiz_jpg/uwfgQWjNfoYnHkDFuQy8Errp3o8BjjIqn3gZBreLBic7Qopo4qR6Via8Jtx38wuqyLVZjEFxWBSibmgEpcZMHSFPw2A5VMH4YVE0GibCQvw1u4g/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=12)
+![淘汰赛现场](13.jpg)
 
 ## 季军战：冯诚头球定音，南京校友队2:1险胜金融
 
@@ -80,7 +80,7 @@ B组上演长三角之争。南京校友队和苏州校友队前两轮均两战�
 
 比赛最后阶段，17号冯诚站了出来，接21号朱志伟后场长传，门前头球得手，2:1结束战斗。南京校友队拿下第三名，金融校友队虽败犹荣——毕竟黑马跑到四强，已经够本了，回去群里可吹一年。
 
-![季军争夺战现场](https://mmbiz.qpic.cn/mmbiz_jpg/uwfgQWjNfoZEDdzsEqy8MDQL075xroKX9D4ibX5zFWAOBaiaFH7qzeWGb22uSw9LUPmynyKju02Zu0LBhO5HQsuFnnFOiby1iabUHByBgkOuqds/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=13)
+![季军争夺战现场](14.jpg)
 
 ## 决赛：苏州队先“招手”，年轻人再“截胡”
 
@@ -88,13 +88,13 @@ B组上演长三角之争。南京校友队和苏州校友队前两轮均两战�
 
 冠军似乎已在向苏州队招手——可惜招的是个“假动作”。
 
-![决赛现场](https://mmbiz.qpic.cn/sz_mmbiz_jpg/uwfgQWjNfoayk6MwiaempMX5ye4ISsqGtP6Zs3kTb3o1xpIRwLcpz370xUtX9ias9ciaGArbRGFklAWLibqqLHvHBXHRqVbjgqThWbzvRn0cOpE/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=14)
+![决赛现场](15.jpg)
 
 背水一战的在校生校队把“尊老爱幼”暂时放在一边，下半场多次快速反击冲击苏州队年长的后防线。第29分钟，苏州队禁区内忙中出错，点球！10号队长黄茂珈一蹴而就，1:2。第30分钟，全场表现优异的22号林良诚推射远角得手，2:2绝平！
 
 比赛再次进入点球大战。五轮点球，在校生校队门将、门柱齐发威，最终5:4击败对手，如愿捧起福满满杯，蝉联冠军。福满满杯，果然福气满满地落在了年轻人头上——苏州队的两球领先，最终成了“福满满”的背景板。
 
-![在校生校队逆转夺冠](https://mmbiz.qpic.cn/mmbiz_jpg/uwfgQWjNfoayu194um4icic55SuAjibMWYyMTqPmXibJjncwI9r1PGbvAqehJiafWnRZXnJq3d8Yem0Iuh8micpId3ibTu22cgfLUfvIIjJSK6a6cE/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=15)
+![在校生校队逆转夺冠](16.jpg)
 
 ## 颁奖：奖杯有主，情怀无价
 
@@ -104,39 +104,39 @@ B组上演长三角之争。南京校友队和苏州校友队前两轮均两战�
 
 个人奖项方面，金融校友队陈知东荣膺最佳射手；最佳门将被在校生校队张健搏揽入囊中；南京校友队潘晋当选最佳球员；终身成就奖则由京津冀陆慧明校友获得——分量十足，实至名归。
 
-![冠军：在校生校队](https://mmbiz.qpic.cn/mmbiz_jpg/uwfgQWjNfoafRONYbPnQ4e2YCuYyA5E1X5fQFZicaPlDULcBFicIQ67vGbKcgQfAjegFZgJIQZy793LgrtLJNlEcshRUqGhU0ral6jnJcbGbQ/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=16)
+![冠军：在校生校队](17.jpg)
 
 *冠军：在校生校队*
 
-![亚军：苏州校友队](https://mmbiz.qpic.cn/sz_mmbiz_jpg/uwfgQWjNfoaAQ4zhaSf8knAO6FPaicDTEl38ZakWW59Qfibmby76DibtQNVqKp09ibmIq6G6Af8WricaW4xYFRTCRhHqrcvmqhwMthvJdIT7voPE/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=17)
+![亚军：苏州校友队](18.jpg)
 
 *亚军：苏州校友队*
 
-![季军：南京校友队](https://mmbiz.qpic.cn/mmbiz_jpg/uwfgQWjNfoZok6mB6ib9cqboenMcfJicJPxUtsUxDQMFrHLswHt9hdFic6RcXCDqTzb6IpibSVZXfA7H74womkYfrAGDdvhcCzFicEul1Ty3qGnI/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=18)
+![季军：南京校友队](19.jpg)
 
 *季军：南京校友队*
 
-![公平竞赛奖](https://mmbiz.qpic.cn/sz_mmbiz_jpg/uwfgQWjNfoZJXlH0GAQqf2sHZPJx0ZEup7nfK5x8jNEicfy356o09jgJibHKGicNfURpNyMiaPG47aAaPXOh1mZRia9hXoicYIrMQG1csVlu49TNk/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=19)
+![公平竞赛奖](20.jpg)
 
 *公平竞赛奖*
 
-![最佳组织奖](https://mmbiz.qpic.cn/sz_mmbiz_jpg/uwfgQWjNfobPIqzgHo2QkWIA6jVcaiaOUMXYxzBn1ibHKIsTkMtZ0EdSLvuOPKeU6sIeOEiaqpCOYiawoIqeNKjZYbq2zicLGRWfRW3IVElaHRkA/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=20)
+![最佳组织奖](21.jpg)
 
 *最佳组织奖*
 
-![最佳射手：陈知东（金融校友队）](https://mmbiz.qpic.cn/mmbiz_jpg/uwfgQWjNfoZCvCEUfnibew4topGd7gvjxnQoyGGcUdkSLTMBu1by2fIBTfuNGKleQrwxicibwysnYGo2SekiaKNnUwMSiaGBlnqlleZe7icPa7fDc/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=21)
+![最佳射手：陈知东（金融校友队）](22.jpg)
 
 *最佳射手：陈知东（金融校友队）*
 
-![最佳门将：张健搏（在校生校队）](https://mmbiz.qpic.cn/mmbiz_jpg/uwfgQWjNfoblN52Luz46J8nBVv0pykA0GlkVTch7kYBp7nE4XClF8tu3wQTMQiaZnGlLWZeRT2IDu2Sib60DSNb4bzn6NU9YMI6phRKQFLcts/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=22)
+![最佳门将：张健搏（在校生校队）](23.jpg)
 
 *最佳门将：张健搏（在校生校队）*
 
-![最佳球员：潘晋（南京校友队）](https://mmbiz.qpic.cn/sz_mmbiz_jpg/uwfgQWjNfoYl4T5eqgpLEt7BQ5Hxtibg2aekmV6bsXR4mlmxRcjRpz9RY9vIxtjEDfhOiaa7iaRGyp4iblITcOwE3BRMsORmA8dxkECjn7ePr5s/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=23)
+![最佳球员：潘晋（南京校友队）](24.jpg)
 
 *最佳球员：潘晋（南京校友队）*
 
-![终身成就奖：陆慧明（京津冀校友队）](https://mmbiz.qpic.cn/mmbiz_jpg/uwfgQWjNfoZNhS8UmkT8bmBMblqbTcXWuLzuBB3jqNc4JZEVUZHvSpmFMnj8qIt6IXZ3qFbta7vgZ3ZNic9ravAkcKaplvDkRfAIIAujhUZU/640?wx_fmt=jpeg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=24)
+![终身成就奖：陆慧明（京津冀校友队）](25.jpg)
 
 *终身成就奖：陆慧明（京津冀校友队）*
 
