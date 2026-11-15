@@ -4,6 +4,7 @@ summary: "2025 年江苏省大学生计算机设计大赛, 省三等奖."
 tags:
   - 竞赛
 draft: false
+order: 4
 members: "王方胜、李俊俐、王欣怡"
 ---
 
