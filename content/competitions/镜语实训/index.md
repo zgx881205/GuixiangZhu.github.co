@@ -4,6 +4,7 @@ summary: '2026年首届江苏省研究生“人工智能赋能企业管理场景
 tags:
   - 竞赛
 draft: false
+order: 2
 members: "秦梦圆、狄博威、戴蓉蓉、吴斗诗、丁溢"
 ---
 
