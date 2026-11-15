@@ -5,7 +5,8 @@ tags:
   - 竞赛
 draft: false
 members: "欧聿芩、陈彦博、程希、孟宇佳、王方胜、谢祉仪"
-order: 1         
+params:
+  order: 1     
 ---
 
 | 项目 | 内容 |
