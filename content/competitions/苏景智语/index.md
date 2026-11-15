@@ -4,6 +4,7 @@ summary: '2026年首届江苏省研究生“人工智能赋能企业管理场景
 tags:
   - 竞赛
 draft: false
+order: 5
 members: "赵启斌、吴斗诗、欧聿芩、王方胜、李冬姣"
 ---
 
