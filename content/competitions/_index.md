@@ -10,6 +10,9 @@ sections:
       filters:
         folders:
           - competitions
+      order_by:
+        field: weight      # 按 order 排序
+        direction: asc
     design:
       view: card
       columns: 2
