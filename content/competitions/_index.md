@@ -11,7 +11,7 @@ sections:
         folders:
           - competitions
       order_by:
-        field: weight      # 按 order 排序
+        field: params.order
         direction: asc
     design:
       view: card
