@@ -6,7 +6,8 @@ tags:
 draft: false
 members: "欧聿芩、陈彦博、程希、孟宇佳、王方胜、谢祉仪"
 params:
-  order: 1     
+  order: 1
+date: 2026-01-01   # 排第3
 ---
 
 | 项目 | 内容 |
