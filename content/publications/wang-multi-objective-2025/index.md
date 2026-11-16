@@ -11,6 +11,7 @@ date: '2025-03-01'
 publishDate: '2026-11-07T03:27:41.017460Z'
 publication_types:
 - article-journal
+publication: '*Expert Systems with Applications*'
 doi: 10.1016/j.eswa.2024.125834
 abstract: 'As awareness of environmental protection grows, the development of electric
   vehicles has emerged as a prominent area of research. Naturally, optimizing Permanent
