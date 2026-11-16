@@ -80,6 +80,11 @@ experience:
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 awards:
+  - title: 最佳指导老师
+    awarder: 江苏省研究生“人工智能赋能企业管理场景应用设计”大赛
+    date: 2026-11-14
+    summary: Awarded for groundbreaking work on efficient training of large models.
+    icon: hero/trophy            CSC国家公派留学奖学金
   - title: 青年五四奖章
     awarder: 南京财经大学
     date: 2026-05-04
@@ -89,7 +94,7 @@ awards:
     awarder: 国家留学基金委
     date: 2017-05-04
     summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy            
+    icon: hero/trophy              
 skills:
   - name: Technical Skills
     items:
