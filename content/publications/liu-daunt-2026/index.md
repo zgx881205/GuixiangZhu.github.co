@@ -8,7 +8,7 @@ date: '2026-08-01'
 publishDate: '2026-11-04T07:40:26.134688Z'
 publication_types:
 - article-journal
-publication: '*Multidisciplinary Digital Publishing Institute*'
+publication: '*Machine Learning and Knowledge Extraction*'
 doi: 10.3390/make8080233
 abstract: 'Detecting a few hundred fraudulent transactions among hundreds of thousands
   is an extreme class-imbalance problem where one miss can cost a full transaction
