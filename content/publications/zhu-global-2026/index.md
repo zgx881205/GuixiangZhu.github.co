@@ -12,6 +12,7 @@ date: '2026-07-02'
 publishDate: '2026-11-04T07:40:25.875406Z'
 publication_types:
 - article-journal
+publication: '*Knowledge and Information Systems*'
 doi: 10.1007/s10115-026-02801-6
 abstract: Community deception in social networks is a strategy used to address privacy
   breaches caused by community detection algorithms. It involves intentionally disrupting
