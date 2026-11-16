@@ -13,6 +13,7 @@ date: '2024-09-01'
 publishDate: '2026-11-07T03:27:41.064542Z'
 publication_types:
 - article-journal
+publication: '*Expert Systems with Applications*'
 doi: 10.1016/j.eswa.2024.123491
 abstract: 'Influence maximization in social networks aims to identify users with the
   highest influence in the network and leverage them as initial spreaders to maximize
