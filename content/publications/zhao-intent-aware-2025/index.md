@@ -12,7 +12,7 @@ date: '2025-07-31'
 publishDate: '2026-11-04T07:40:25.916250Z'
 publication_types:
 - article-journal
-publication: '*PeerJ Inc.*'
+publication: '*PeerJ Computer Science*'
 doi: 10.7717/peerj-cs.3023
 abstract: In the field of electrical power material management, it is paramount that
   users receive accurate recommendations regarding the electrical power materials
