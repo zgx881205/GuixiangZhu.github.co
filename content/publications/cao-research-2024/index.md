@@ -13,6 +13,7 @@ date: '2024-12-06'
 publishDate: '2026-11-04T07:40:25.890418Z'
 publication_types:
 - article-journal
+publication: '*World Wide Web*'
 doi: 10.1007/s11280-024-01318-8
 abstract: 'Although lithium-ion batteries offer significant potential in a wide variety
   of applications, they also present safety risks that can harm the battery system
