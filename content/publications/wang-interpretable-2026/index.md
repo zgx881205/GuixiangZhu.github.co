@@ -11,6 +11,7 @@ date: '2026-04-01'
 publishDate: '2026-11-04T07:40:25.835518Z'
 publication_types:
 - article-journal
+publication: '*IEEE Transactions on Industrial Informatics*'
 doi: 10.1109/TII.2025.3644943
 abstract: High-speed permanent magnet (HSPM) machines are pivotal in aerospace, industrial
   automation, and electric vehicles owing to their exceptional power density and compact
