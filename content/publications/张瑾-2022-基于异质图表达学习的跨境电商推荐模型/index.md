@@ -9,9 +9,8 @@ authors:
 date: '2019-07-25'
 publishDate: '2026-11-07T12:54:31.281342Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the 25th ACM SIGKDD International Conference on Knowledge
-  Discovery & Data Mining*'
+- article-journal
+publication: '*电子信息学报*'
 featured: true
 doi: 10.1145/3292500.3330961
 abstract: 跨境电商产品推荐已经成为了电子商务领域新兴的研究议题之一。由于电商产品信息复杂多样、“用户产品”关联矩阵极为稀疏并且冷启动问题突出，因此传统的协同过滤推荐模型很难奏效。而改进的深度协同过滤
