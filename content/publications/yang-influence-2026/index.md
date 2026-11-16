@@ -13,6 +13,7 @@ date: '2026-01-01'
 publishDate: '2026-11-07T03:27:41.074541Z'
 publication_types:
 - article-journal
+publication: '*Engineering Applications of Artificial Intelligence*'
 doi: 10.1016/j.engappai.2025.113175
 abstract: 'With the rapid development of online social networks, identifying the most
   influential user groups and designating them as source nodes for information dissemination
