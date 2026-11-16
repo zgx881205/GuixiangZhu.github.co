@@ -14,6 +14,7 @@ date: '2022-03-01'
 publishDate: '2026-11-07T03:27:41.043980Z'
 publication_types:
 - article-journal
+publication: '*Knowledge-Based Systems*'
 doi: 10.1016/j.knosys.2021.107960
 abstract: Legal Judgment Prediction (LJP) aims to predict the judgment result based
   on the fact description of a criminal case, and is gradually becoming a hot research
