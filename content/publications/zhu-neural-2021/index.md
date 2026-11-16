@@ -13,6 +13,7 @@ date: '2021-01-01'
 publishDate: '2026-11-07T03:27:41.093539Z'
 publication_types:
 - article-journal
+publication: '*Knowledge-Based Systems*'
 doi: 10.1016/j.knosys.2020.106511
 abstract: Travel package recommendation is a critical task in the tourism e-commerce
   recommender systems. Recently, an increasing number of studies proposed various
