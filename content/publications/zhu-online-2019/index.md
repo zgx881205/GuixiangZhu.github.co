@@ -6,6 +6,7 @@ date: '2019-01-01'
 publishDate: '2026-11-07T03:42:47.482179Z'
 publication_types:
 - article-journal
+publication: '*Electronic Commerce Research and Applications*'
 doi: 10.1016/j.elerap.2019.100887
 featured: true
 abstract: 'In this study, we consider the purchase prediction problem in the context
