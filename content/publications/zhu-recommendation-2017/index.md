@@ -9,6 +9,7 @@ date: '2017-08-01'
 publishDate: '2026-11-04T07:40:25.960275Z'
 publication_types:
 - article-journal
+publication: '*Multimedia Tools and Applications*'
 doi: 10.1007/s11042-017-4406-6
 abstract: Travel products recommendation has become one of emerging issues in the
   realm of recommendation systems. The widely-used collaborative filtering algorithms
