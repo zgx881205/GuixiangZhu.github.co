@@ -43,12 +43,6 @@ education:
     institution: 南京理工大学
     start: 2014-09-01
     end: 2020-09-25
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
   - degree: 硕士
     institution: 江西理工大学
     start: 2011-09-01
