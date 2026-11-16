@@ -9,6 +9,7 @@ date: '2018-08-01'
 publishDate: '2026-11-08T04:10:36.112599Z'
 publication_types:
 - paper-conference
+publication: '*Proceedings of the 2024 8th International Conference on Computing and Data Analysis*'
 doi: 10.1109/CBD.2018.00039
 abstract: With the rapid development of tourism e-commerce, a huge amount of online
   tourists behavioral data is enlarged at an explosive speed. Online purchase analysis
