@@ -13,6 +13,7 @@ date: '2023-11-01'
 publishDate: '2026-11-07T03:27:41.054976Z'
 publication_types:
 - article-journal
+publication: '*Neurocomputing*'
 doi: 10.1016/j.neucom.2023.126707
 abstract: 'The Graph Convolutional Network (GCN) has demonstrated impressive performance
   in processing graph structured data. However recent studies have revealed that GCN
