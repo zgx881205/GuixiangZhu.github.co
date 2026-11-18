@@ -6,7 +6,7 @@ summary: "基于垂类大语言模型赋能的智慧旅游决策系统"
 status: "创业"
 tags: [AI+旅游]
 draft: false
-date: 2026-11-19
+date: 2026-10-31
 ---
 
 ### 在线体验
