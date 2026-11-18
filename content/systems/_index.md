@@ -10,6 +10,9 @@ sections:
       filters:
         folders:
           - systems
+      order_by:
+        field: params.order
+        direction: asc
     design:
       view: card
       columns: 2
