@@ -6,6 +6,7 @@ summary: "基于RAG的校园智能问答助手"
 status: "升学"
 tags: [AI+教育]
 draft: false
+date: 2026-10-30
 ---
 
 ### 在线体验
