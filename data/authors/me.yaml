@@ -86,7 +86,7 @@ awards:
 skills:
   - name: Technical Skills
     items:
-      - label: Python
+      - label: Deep Learning
         level: 5
       - label: Machine Learning
         level: 5
