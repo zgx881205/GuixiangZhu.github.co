@@ -19,7 +19,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: 主持或参与的基金项目/课题
+      title: 主持或参与的基金、项目、课题
       count: 0
       filters:
         folders:
