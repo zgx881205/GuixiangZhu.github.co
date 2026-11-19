@@ -55,18 +55,14 @@ experience:
   - role: 副教授
     org: 南京财经大学，计算机与人工智能学院
     start: 2026-09-30
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
+  - role: 副主任
+    org: 南京财经大学，网络与数据中心
+    start: 2025-07-01
+    end: 2026-07-01  
   - role: 讲师
     org: 南京财经大学，计算机与人工智能学院
     start: 2020-12-01
     end: 2026-09-29
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
   - role: 研究员
     org: 南京财经大学，国家级电子商务信息处理国际联合研究中心，电子商务交易技术国家地方联合工程实验室
     start: 2013-08-01
