@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: AI作品
+      title: AI研发
       count: 0
       filters:
         folders:
