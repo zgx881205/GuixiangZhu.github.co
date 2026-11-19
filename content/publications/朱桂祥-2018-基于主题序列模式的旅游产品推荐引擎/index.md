@@ -34,5 +34,5 @@ tags:
 - recommender system
 links:
 - name: URL
-  url: https://linkinghub.elsevier.com/retrieve/pii/S0957417424027015
+  url: https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2018.20160926
 ---
