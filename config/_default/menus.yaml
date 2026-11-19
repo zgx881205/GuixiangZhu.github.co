@@ -17,7 +17,7 @@ main:
   - name: 指导竞赛
     url: competitions/
     weight: 15
-  - name: AI作品
+  - name: AI研发
     url: systems/
     weight: 16
   - name: 课题组
