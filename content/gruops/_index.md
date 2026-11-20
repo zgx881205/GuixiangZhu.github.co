@@ -33,7 +33,7 @@ sections:
       count: 0
       filters:
         folders:
-          - students
+          - gruops
     design:
       view: article-grid
       fill_image: false
