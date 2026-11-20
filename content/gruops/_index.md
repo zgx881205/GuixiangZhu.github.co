@@ -19,20 +19,21 @@
     # type: docs
     # params:
       # show_breadcrumb: true
-title: 课题组
-summary: 围绕研究方向划分的小组
+# Page sections
 sections:
   - block: collection
     content:
-      title: 研究小组
+      title: AI+课题组在校学子
+      text: 南京财经大学计算机与人工智能学院电商实验室AI+课题组在校学子
+      count: 0
       filters:
-        tag: 研究小组
-        kinds:
-          - section
+        folders:
+          - students
     design:
       view: article-grid
+      fill_image: false
       columns: 2
-      show_read_time: false
       show_date: false
+      show_read_time: false
       show_read_more: false
 ---
