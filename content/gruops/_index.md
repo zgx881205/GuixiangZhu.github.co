@@ -25,20 +25,20 @@ date: 2024-05-19
 type: landing
 
 # Page sections
+title: 课题组
+summary: 围绕研究方向划分的小组
 sections:
   - block: collection
     content:
-      title: AI+课题组在校学子
-      text: 南京财经大学计算机与人工智能学院电商实验室AI+课题组在校学子
-      count: 0
+      title: 研究小组
       filters:
-        folders:
-          - gruops
+        tag: 研究小组
+        kinds:
+          - section
     design:
       view: article-grid
-      fill_image: false
       columns: 2
-      show_date: false
       show_read_time: false
+      show_date: false
       show_read_more: false
 ---
