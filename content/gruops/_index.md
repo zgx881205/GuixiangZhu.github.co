@@ -1,7 +1,6 @@
 ---
 title: AI+课题组在校学子
 summary: 围绕研究方向划分的小组
-type: landing
 sections:
   - block: collection
     content:
