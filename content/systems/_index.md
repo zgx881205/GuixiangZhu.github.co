@@ -1,7 +1,7 @@
 ---
-title: AI+系统开发
-summary: AI+场景开发作品展示
-type: landing
+#title: AI+系统开发
+#summary: AI+场景开发作品展示
+#type: landing
 sections:
   - block: collection
     content:
