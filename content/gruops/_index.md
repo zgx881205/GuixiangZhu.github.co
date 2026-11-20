@@ -19,13 +19,9 @@
     # type: docs
     # params:
       # show_breadcrumb: true
-
-title: 'AI+课题组在校学子'
-date: 2024-05-19
-type: landing
-
+      
 # Page sections
-title: 课题组
+title: AI+课题组在校学子
 summary: 围绕研究方向划分的小组
 sections:
   - block: collection
