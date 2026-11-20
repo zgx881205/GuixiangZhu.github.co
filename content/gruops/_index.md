@@ -19,10 +19,12 @@
     # type: docs
     # params:
       # show_breadcrumb: true
-# Page sections
+
 title: 'AI+课题组在校学子'
 date: 2024-05-19
 type: landing
+
+# Page sections
 sections:
   - block: collection
     content:
