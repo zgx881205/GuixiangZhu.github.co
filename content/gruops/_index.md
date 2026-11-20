@@ -1,28 +1,7 @@
 ---
-# Template examples are kept in source for later customization.
-# Remove these build/cascade rules after replacing their sample content.
-# build:
- # render: never
- # list: never
- # publishResources: false
-# title: Courses
-# summary: My courses
-# type: landing
-
-# cascade:
-  # - build:
-     # render: never
-     # list: never
-     # publishResources: false
-  # - target:
-     # path: '{/courses/*/**}'
-    # type: docs
-    # params:
-      # show_breadcrumb: true
-      
-# Page sections
 title: AI+课题组在校学子
 summary: 围绕研究方向划分的小组
+type: landing
 sections:
   - block: collection
     content:
