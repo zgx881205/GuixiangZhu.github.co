@@ -6,4 +6,5 @@ summary: "可解释的在线旅游用户购买意愿预测系统设计与实现"
 status: "升学"
 tags: [AI+电商]
 draft: false
+date: 2026-10-27
 ---
