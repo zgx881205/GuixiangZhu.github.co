@@ -6,6 +6,7 @@ summary: "大模型赋能的可解释旅游推荐系统"
 status: "升学"
 tags: [AI+电商]
 draft: false
+date: 2026-10-29
 ---
 
 
