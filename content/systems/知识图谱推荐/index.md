@@ -6,6 +6,7 @@ summary: "基于知识图谱和用户画像的旅游推荐系统"
 status: "升学"
 tags: [AI+电商]
 draft: false
+date: 2026-10-28
 ---
 
 
