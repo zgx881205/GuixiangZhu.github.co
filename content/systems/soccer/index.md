@@ -6,4 +6,5 @@ summary: "南京财经大学足球联赛AI信息管理系统"
 status: "升学"
 tags: [AI+足球]
 draft: false
+date: 2026-10-01
 ---
