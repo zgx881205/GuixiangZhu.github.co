@@ -1,5 +1,5 @@
 ---
-title: "RAG智能体"
+title: "RAG智能体:财问"
 grade: "2023级"
 major: "计算机科学与技术"
 summary: "基于RAG的校园智能问答助手"
