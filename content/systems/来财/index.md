@@ -1,5 +1,5 @@
 ---
-title: "RAG智能体"
+title: "RAG智能体：来财"
 grade: "2023级"
 major: "计算机科学与技术"
 summary: "基于RAG的电商平台智能客服"
