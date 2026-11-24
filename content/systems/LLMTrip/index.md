@@ -1,5 +1,5 @@
 ---
-title: "推荐系统"
+title: "推荐系统：DeepTravel"
 grade: "2023级"
 major: "计算机科学与技术"
 summary: "大模型赋能的可解释旅游推荐系统"
